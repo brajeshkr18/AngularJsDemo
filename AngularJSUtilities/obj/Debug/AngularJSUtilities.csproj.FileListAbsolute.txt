@@ -1,0 +1,15 @@
+C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.pdb
+C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.csprojResolveAssemblyReference.cache
+C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.pdb
+C:\Users\HELLO\AppData\Roaming\Skype\My Skype Received Files\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.dll
+C:\Users\HELLO\AppData\Roaming\Skype\My Skype Received Files\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.pdb
+C:\Users\HELLO\AppData\Roaming\Skype\My Skype Received Files\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.csprojResolveAssemblyReference.cache
+C:\Users\HELLO\AppData\Roaming\Skype\My Skype Received Files\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.dll
+C:\Users\HELLO\AppData\Roaming\Skype\My Skype Received Files\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.pdb
+E:\Project\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.dll
+E:\Project\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.pdb
+E:\Project\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.csprojResolveAssemblyReference.cache
+E:\Project\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.dll
+E:\Project\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.pdb
